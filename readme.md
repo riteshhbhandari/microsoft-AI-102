@@ -1,4 +1,7 @@
-# DEPRECATED
+# Microsoft certication AI-102
+-Repo of all the code files used during the certification.
+
+## DEPRECATED
 
 This repo is no longer supported. The lab files for course AI-102 (and other AI-related courses) are distributed across multiple repo's:
 
